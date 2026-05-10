@@ -5,7 +5,7 @@ Collections of CVES I have obtained
 # CVE-2026-XXXX: WordPress PLugin (Bit Assist) Stored XSS
 
 ## Information
-**Description:** WordPress plugin (Bit Assist) is affected by Stored Cross-Site Scripting in Call-To-Action feature. An authenticated attacker with the lowest privileged role (contributor) can exploit this to redirect user to malicious site or control the account. <br> 
+**Description:** WordPress plugin (Bit Assist) is affected by Stored Cross-Site Scripting in Call-To-Action feature. An authenticated attacker with the  privileged role (administrator) can exploit this to redirect user to malicious site or control the account. The javascript will execute for unauthenticated users visiting the site <br> 
 **Versions Affected:** Confirmed on 1.7.1 and lower <br> 
 **Version Fixed:** 1.7.2(#) (Open) <br> 
 **Researcher:** Trenton Williams (https://youtube.com/@Infin1teXploit)  
@@ -14,7 +14,7 @@ Collections of CVES I have obtained
 
 ## Proof-of-Concept Exploit
 ### Description
-WordPress plugin (Bit Assist) is affected by Stored Cross-Site Scripting in Call-To-Action feature. An authenticated attacker with the lowest privileged role (contributor) can exploit this to redirect user to malicious site or control the account
+WordPress plugin (Bit Assist) is affected by Stored Cross-Site Scripting in Call-To-Action feature. An authenticated attacker with the  privileged role (admin) can exploit this to redirect user to malicious site or control the account. The javascript will execute for unauthenticated users visiting the site.
 
 ### Usage/Exploitation
 ``` 
@@ -74,7 +74,7 @@ And Navigate to the Page
 
 
 ### Description
-WordPress plugin (Bit Assist) is affected by Stored Cross-Site Scripting in Event Title field. An authenticated attacker with the lowest privileged role (contributor) can exploit this to redirect user to malicious site or control the account
+WordPress plugin (Spiffy Calendar) is affected by Stored Cross-Site Scripting in Event Title field. An authenticated attacker with the  privileged role (admin) can exploit this to redirect user to malicious site or control the account
 
 ### Description
 The vendor have patched this in version 5.0.9
