@@ -2,7 +2,7 @@
 Collections of CVES I have obtained
 
 
-# CVE-2026-39079: WordPress PLugin (Bit Assist) Stored XSS
+# CVE-2026-39070: WordPress PLugin (Bit Assist) Stored XSS
 
 ## Information
 **Description:** WordPress plugin (Bit Assist) is affected by Stored Cross-Site Scripting in Call-To-Action feature. An authenticated attacker with the  privileged role (administrator) can exploit this to redirect user to malicious site or control the account. The javascript will execute for unauthenticated users visiting the site <br> 
