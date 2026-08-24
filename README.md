@@ -2,7 +2,7 @@
 Collections of CVES I have obtained
 
 
-# CVE-2026-XXXX: WordPress PLugin (Bit Assist) Stored XSS
+# CVE-2026-39079: WordPress PLugin (Bit Assist) Stored XSS
 
 ## Information
 **Description:** WordPress plugin (Bit Assist) is affected by Stored Cross-Site Scripting in Call-To-Action feature. An authenticated attacker with the  privileged role (administrator) can exploit this to redirect user to malicious site or control the account. The javascript will execute for unauthenticated users visiting the site <br> 
@@ -49,7 +49,7 @@ The vendor have patched this in version 1.7.2.
 
 
 
-# CVE-2026-XXXX: WordPress PLugin (Spiffy Plugin) Stored XSS
+# CVE-2026-39071: WordPress PLugin (Spiffy Plugin) Stored XSS
 
 ## Information
 **Description:** WordPress plugin (Bit Assist) is affected by Stored Cross-Site Scripting in Event Title field. An authenticated attacker with the lowest privileged role (contributor) can exploit this to redirect user to malicious site or control the account. <br> 
