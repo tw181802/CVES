@@ -52,7 +52,7 @@ The vendor have patched this in version 1.7.2.
 # CVE-2026-39071: WordPress PLugin (Spiffy Plugin) Stored XSS
 
 ## Information
-**Description:** WordPress plugin (Bit Assist) is affected by Stored Cross-Site Scripting in Event Title field. An authenticated attacker with the lowest privileged role (contributor) can exploit this to redirect user to malicious site or control the account. <br> 
+**Description:** WordPress plugin (Spiffy Plugin) is affected by Stored Cross-Site Scripting in Event Title field. An authenticated attacker with the lowest privileged role (contributor) can exploit this to redirect user to malicious site or control the account. <br> 
 **Versions Affected:** Confirmed on 5.0.8 and lower <br> 
 **Version Fixed:** 5.0.9(#) (Open) <br> 
 **Researcher:** Trenton Williams (https://youtube.com/@Infin1teXploit)  
