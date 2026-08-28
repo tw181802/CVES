@@ -9,7 +9,7 @@ Collections of CVES I have obtained
 **Versions Affected:** Confirmed on 1.7.1 and lower <br> 
 **Version Fixed:** 1.7.2(#) (Open) <br> 
 **Researcher:** Trenton Williams (https://youtube.com/@Infin1teXploit)  
-**Disclosure Link:** https://#/ <br>
+**NVD NIST Link:** https://nvd.nist.gov/vuln/detail/cve-2026-39070 <br>
 **CVE Link:** https://www.cve.org/CVERecord?id=CVE-2026-39070
 
 ## Proof-of-Concept Exploit
