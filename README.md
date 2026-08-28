@@ -10,7 +10,7 @@ Collections of CVES I have obtained
 **Version Fixed:** 1.7.2(#) (Open) <br> 
 **Researcher:** Trenton Williams (https://youtube.com/@Infin1teXploit)  
 **Disclosure Link:** https://#/ <br>
-**NIST CVE Link:** https://nvd.nist.gov/vuln/detail/CVE-#
+**CVE Link:** https://www.cve.org/CVERecord?id=CVE-2026-39070
 
 ## Proof-of-Concept Exploit
 ### Description
@@ -57,7 +57,7 @@ The vendor have patched this in version 1.7.2.
 **Version Fixed:** 5.0.9(#) (Open) <br> 
 **Researcher:** Trenton Williams (https://youtube.com/@Infin1teXploit)  
 **Disclosure Link:** https://#/ <br>
-**NIST CVE Link:** https://nvd.nist.gov/vuln/detail/CVE-#
+**CVE Link:** https://www.cve.org/CVERecord?id=CVE-2026-39071
 
 ## Proof-of-Concept Exploit
 
