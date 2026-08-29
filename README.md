@@ -56,7 +56,7 @@ The vendor have patched this in version 1.7.2.
 **Versions Affected:** Confirmed on 5.0.8 and lower <br> 
 **Version Fixed:** 5.0.9(#) (Open) <br> 
 **Researcher:** Trenton Williams (https://youtube.com/@Infin1teXploit)  
-**Disclosure Link:** https://#/ <br>
+**NVD NIST Link:** https://nvd.nist.gov/vuln/detail/cve-2026-39071 <br>
 **CVE Link:** https://www.cve.org/CVERecord?id=CVE-2026-39071
 
 ## Proof-of-Concept Exploit
